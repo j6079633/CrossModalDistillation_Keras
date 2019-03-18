@@ -23,7 +23,7 @@ year={2015}
 
 ### Files
 Dataset: NYU  depth V2 dataset
-CNN model: VGG16 
+CNN model: VGG16 (Please Download here: https://drive.google.com/open?id=1BO1UC6VPvTnsaEfxv8VL-n34iOSZAKg-) to Model/VGG16
 
 ### some reference code
 I refer some others code for implementing the CNN visualize part.
